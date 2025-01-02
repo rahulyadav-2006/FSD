@@ -14,5 +14,3 @@ sayHoi("bxjbhsxv");
 
 let sayHii = (name) => console.log(`Good Morning ${name}`)
 sayHii('KLH');
-
-console.log("=====================================");
